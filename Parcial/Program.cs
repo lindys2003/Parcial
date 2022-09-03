@@ -38,7 +38,7 @@ namespace Parcial
                     Console.WriteLine("reprobado");
                 Console.WriteLine("Valor de promedio: " + definitiva);
                 Console.WriteLine();
-                Console.Write("============Resultados============ ");
+                Console.Write("Presiona una tecla para terminar . .  ");
                 definitiva = double.Parse(Console.ReadLine());
 
             }
